@@ -1,0 +1,1 @@
+This is GAE application which intend to extract news and various market updates on cloud and linux.
